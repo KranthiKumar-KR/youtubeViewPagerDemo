@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\d3fdd3fdd754dd032fd2bcfc2f35ebdabe378891\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a48af9a62106d239601de1d38631b40c957d09a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf6fe19d55bbbdbcabe07916e3af628e9dc2ed90">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4cd9f8cd07f01f452c2c6d40c757151b69b91f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\dda629cd163dadff952b4338c8282e87b5f142de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_343efd2b7c80a48151d5a79afdd278de9b3790ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af54af0718f64519086d9f8ea3bf925a9f0569a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\8a837d00b3aaf9f084d6b50debf1ee9ae89a8683\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b456952bf38d6759c7082e6a55d558a58878bf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\f4b8e4616608160238b6f6cdb6539cea96e24c0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e8b555ec43f1ab68f121dc4554082cb280f09f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\YoutubeViewPagerDemo\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_e87a6e2ba7aea4fe37cd6d09e06e805eba3dba34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\7f92a7756573ce31ff011a100ba923292f73deda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9b55319bb89ab90e58a9c1320c7dee3097f8c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\bad7697af5c4ba19537c391ee06abd5ca7943edd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87b30a3ecf3f4b0c71e38ecdff97e850fa328e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\afc71262eb9dbcebe648efa3d103bf72619382b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c30305a068ea6d1c13405ebf8331ad482746c9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\9493815a457ec9309c81a419e9ef4399d028992d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_501b1abe3fe31d9b6acd4990ffae897754b0963f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krant\.android\build-cache\7bdf21b1a46881a0670f041749168a4af4876e1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\Android\YoutubeViewPagerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b84dee39bd26db37f4666638ceb36c0b04cedf5\classes.dex" />
+    </item>
+
+</items>
